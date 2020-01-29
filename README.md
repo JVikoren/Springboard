@@ -2,6 +2,7 @@
 Artificial Intelligence / Machine Learning Engineering Track
 
 This repository contains all of the mini-projects I completed during my time in the Springboard program. Furthermore, you will find files related to my chosen capstone project. 
+
 Capstone: Supervised Classification of Skin Cancer
 - EDA: Exploratory Data Analysis
 - Metadata: model built with only meta-data to determine statistical significance
